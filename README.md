@@ -6,7 +6,7 @@ Twenty Twenty WordPress child theme is built for the Twenty Twenty parent WordPr
 
 Theme Name: Twenty Twenty Child
 
-Template: twentytwenty-child
+Template: twentytwenty
 
 Theme URI: https://wordpress.org/themes/twentytwenty/
 
