@@ -1,8 +1,9 @@
 # Twenty Twenty-Three Child WordPress Theme
 
-Twenty Twenty WordPress child theme is built for the Twenty Twenty parent WordPress theme by WordPress.org
+Twenty Twenty WordPress child theme is built for the Twenty Twenty parent WordPress theme by [WordPress.org](https://en-gb.wordpress.org/themes/twentytwentythree/)
 
 /*
+
 Theme Name: Twenty Twenty-Three Child
 
 Template: twentytwentythree
